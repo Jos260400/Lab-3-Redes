@@ -1,5 +1,5 @@
-#LINK STATE ROUTING
+# LINK STATE ROUTING
 
-##Luis Pedro García
-##André Salazar
-##Jose Ovando
+## Luis Pedro García
+## André Salazar
+## Jose Ovando
