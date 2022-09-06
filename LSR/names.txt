@@ -1,0 +1,10 @@
+{
+    "type":"names",
+    "config":{"A":"luispedro10@alumchat.fun", 
+        "B":"luispedro9@alumchat.fun", 
+        "C":"luispedro8@alumchat.fun", 
+        "D":"luispedro7@alumchat.fun",
+        "E":"luispedro6@alumchat.fun",
+        "F":"luispedro6@alumchat.fun"
+    },
+}
